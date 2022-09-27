@@ -1,0 +1,5 @@
+---
+title: Bozos
+---
+
+# {{ title }}
